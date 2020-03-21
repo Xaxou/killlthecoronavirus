@@ -1,0 +1,43 @@
+#press
+{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#press p
+{
+    padding-top: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+#press img
+{
+    width: 100%;
+
+}
+
+#press:hover
+{
+    cursor: pointer;
+}
+
+#press:active
+{
+    box-shadow: 0px 0px 0px black;
+    
+}
+
+#score
+{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
